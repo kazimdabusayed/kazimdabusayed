@@ -68,8 +68,5 @@
   <img src="https://streak-stats.demolab.com?user=kazimdabusayed&locale=en&mode=daily&theme=cobalt2&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kazimdabusayed/kazimdabusayed/output/snake.svg" alt="Snake animation" />
 
 ###
