@@ -6,8 +6,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=kazimohammedabusayed@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="kazimohammedabusayed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/kazimdabusayed_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -18,15 +22,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=2EA1F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there+%F0%9F%91%8B%2C;I'm+Kazi+Mohammad+Abu+Sayed.)](https://git.io/typing-svg)
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+- :computer: I'm a Frontend Developer
+- :hourglass_flowing_sand: Exploring NextJs
+- :rocket: Always ready to collaborate for Dev Experiments
 
-<p align="left">I'm Kazi Mohammad Abu Sayed, from Feni, Bangladesh<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
