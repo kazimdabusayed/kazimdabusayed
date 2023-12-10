@@ -23,7 +23,7 @@
 
 
 <h4 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3698F7&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Kazi+Mohammad+Abu+Sayed." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3698F7&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Kazi+Mohammad+Abu+Sayed." alt="Typing SVG" />
 </h4>
 
 ###
@@ -39,7 +39,7 @@
 <h3 align="left">🛠 Language and tools :</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,tailwind,react,firebase,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,tailwind,react,firebase,nodejs,express,mongodb)]()
 
 ###
 <h3 align="left">🚀 Currently Learning :</h3>
