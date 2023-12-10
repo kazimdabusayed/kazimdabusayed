@@ -36,16 +36,15 @@
 
 
 ###
-
 <h3 align="left">🛠 Language and tools :</h3>
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,tailwind,react,firebase,nodejs,express,mongodb)](https://skillicons.dev)
+
 ###
+<h3 align="left">🚀 Currently Learning :</h3>
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,tailwind,react,nextjs,firebase,nodejs,express,mongodb)](https://skillicons.dev)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 
 ###
 
