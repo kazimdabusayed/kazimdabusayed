@@ -1,5 +1,14 @@
+###
+
+<h4 align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3698F7&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Kazi+Mohammad+Abu+Sayed." alt="Typing SVG" />
+</h4>
+
+
+###
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazimdabusayed.kazimdabusayed&"  />
 </div>
 
 ###
@@ -15,18 +24,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazimdabusayed.kazimdabusayed&"  />
-</div>
-
-###
-
-<h4 align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3698F7&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Kazi+Mohammad+Abu+Sayed." alt="Typing SVG" />
-</h4>
 
 
 ###
@@ -47,7 +44,7 @@
 ###
 <h3 align="left">🚀 Currently Learning :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql)]()
 
 ###
 
